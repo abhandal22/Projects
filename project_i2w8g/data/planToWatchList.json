@@ -1,0 +1,12 @@
+{"movies": [
+    {
+        "name": "Die Hard",
+        "genre": "Action",
+        "rating": "0"
+    },
+    {
+        "name": "Surfs Up",
+        "genre": "Horror",
+        "rating": "0"
+    }
+]}

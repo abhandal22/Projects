@@ -1,0 +1,19 @@
+{
+  "movies": [
+    {
+      "name": "Die-Hard",
+      "genre": "action",
+      "rating": "8"
+    },
+    {
+      "name": "Your-Name",
+      "genre": "romance",
+      "rating": "5"
+    },
+    {
+      "name": "Halloween",
+      "genre": "horror",
+      "rating": "10"
+    }
+  ]
+}
