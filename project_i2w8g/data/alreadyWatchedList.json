@@ -1,0 +1,22 @@
+{"movies": [
+    {
+        "name": "Batman Begins",
+        "genre": "Action",
+        "rating": "9"
+    },
+    {
+        "name": "Your Name",
+        "genre": "Romance",
+        "rating": "8"
+    },
+    {
+        "name": "The Dark Knight",
+        "genre": "Action",
+        "rating": "9"
+    },
+    {
+        "name": "Die Hard",
+        "genre": "Action",
+        "rating": "8"
+    }
+]}

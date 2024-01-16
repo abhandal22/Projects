@@ -1,0 +1,12 @@
+{"movies": [
+    {
+        "name": "Die-Hard",
+        "genre": "action",
+        "rating": "8"
+    },
+    {
+        "name": "Spiral",
+        "genre": "horror",
+        "rating": "9"
+    }
+]}
